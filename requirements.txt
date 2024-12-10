@@ -7,5 +7,5 @@ qrcode
 colorama
 pytz
 aiohttp
-dateutil
+python-dateutil
 flask
