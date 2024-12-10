@@ -38,6 +38,9 @@ https://imgur.com/a/rYu3Unt
 ### **Join my Discord Server For Emojis**  
 [Click here to join!](https://discord.gg/automate)
 
+### **Host on Render**  
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 ### **1. Open the `config.json` file.**
 
 ### **2. Configure the following settings:**
