@@ -27,7 +27,10 @@
 > music
 > autosender
 ```
-<details> <summary>Click to See help Menu</summary> <img src="https://imgur.com/a/rYu3Unt" alt="help cmd Screenshot" style="width:600px;height:auto;"> </details>
+<details>
+	<summary>Click to expand</summary>
+https://imgur.com/a/rYu3Unt
+</details>
 
 Here's the updated **Setup Instructions** for your README file based on your provided configuration file:
 
@@ -35,7 +38,8 @@ Here's the updated **Setup Instructions** for your README file based on your pro
 
 # ***Usage:***
 
-### **Join my Discord Server For Emojis**
+### **Join my Discord Server For Emojis**  
+[Click here to join!](https://discord.gg/automate)
 
 ### **1. Open the `config.json` file.**
 
