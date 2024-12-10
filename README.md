@@ -31,9 +31,6 @@
 	<summary>Click to expand</summary>
 https://imgur.com/a/rYu3Unt
 </details>
-
-Here's the updated **Setup Instructions** for your README file based on your provided configuration file:
-
 ---
 
 # ***Usage:***
