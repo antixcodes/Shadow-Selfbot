@@ -1,0 +1,11 @@
+aiofiles
+requests
+wavelink
+art
+dhooks
+qrcode
+colorama
+pytz
+aiohttp
+dateutil
+flask
