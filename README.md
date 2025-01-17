@@ -36,7 +36,7 @@ https://imgur.com/a/rYu3Unt
 # ***Usage:***
 
 ### **Join my Discord Server For Emojis**  
-[Click here to join!](https://discord.gg/automate)
+[Click here to join!](https://discord.gg/n8MUXvsz4V)
 
 ### **Host on Render**  
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
